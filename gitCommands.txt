@@ -1,0 +1,10 @@
+1. To initalize any project we use
+--> git init
+2. To check the status of branch use
+--> git status
+-+  they will show, commit, untracked and tracked files
+3. Now if you want to add a file to tracked(staged) area then use
+--> git add .   (. menas all the untracked files)
+--> git add names.txt
+4. Now to commit this -m is for message
+-->git commit -m "names.txt file added"
